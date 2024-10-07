@@ -1,0 +1,14 @@
+C:\Users\kosa.mark\Desktop\triatlon\triatlon\bin\Debug\net8.0\triatlon.exe
+C:\Users\kosa.mark\Desktop\triatlon\triatlon\bin\Debug\net8.0\triatlon.deps.json
+C:\Users\kosa.mark\Desktop\triatlon\triatlon\bin\Debug\net8.0\triatlon.runtimeconfig.json
+C:\Users\kosa.mark\Desktop\triatlon\triatlon\bin\Debug\net8.0\triatlon.dll
+C:\Users\kosa.mark\Desktop\triatlon\triatlon\bin\Debug\net8.0\triatlon.pdb
+C:\Users\kosa.mark\Desktop\triatlon\triatlon\obj\Debug\net8.0\triatlon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosa.mark\Desktop\triatlon\triatlon\obj\Debug\net8.0\triatlon.AssemblyInfoInputs.cache
+C:\Users\kosa.mark\Desktop\triatlon\triatlon\obj\Debug\net8.0\triatlon.AssemblyInfo.cs
+C:\Users\kosa.mark\Desktop\triatlon\triatlon\obj\Debug\net8.0\triatlon.csproj.CoreCompileInputs.cache
+C:\Users\kosa.mark\Desktop\triatlon\triatlon\obj\Debug\net8.0\triatlon.dll
+C:\Users\kosa.mark\Desktop\triatlon\triatlon\obj\Debug\net8.0\refint\triatlon.dll
+C:\Users\kosa.mark\Desktop\triatlon\triatlon\obj\Debug\net8.0\triatlon.pdb
+C:\Users\kosa.mark\Desktop\triatlon\triatlon\obj\Debug\net8.0\triatlon.genruntimeconfig.cache
+C:\Users\kosa.mark\Desktop\triatlon\triatlon\obj\Debug\net8.0\ref\triatlon.dll
